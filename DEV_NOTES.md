@@ -14,3 +14,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-30
 - Added CONTRIBUTING.md stub
+
+## 2026-04-06
+- Added basic retry logic for network requests
+- Bumped patch version
+- Updated CI cache strategy
