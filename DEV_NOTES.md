@@ -27,3 +27,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-13
 - Added basic retry logic for network requests
 - Improved log message formatting
+
+## 2026-04-13
+- Added .editorconfig for consistent formatting
+- Added basic retry logic for network requests
+- Resolved deprecation warnings
