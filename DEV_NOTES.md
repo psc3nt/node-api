@@ -19,3 +19,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic retry logic for network requests
 - Bumped patch version
 - Updated CI cache strategy
+
+## 2026-04-13
+- Improved log message formatting
+- Fixed off-by-one error in loop
