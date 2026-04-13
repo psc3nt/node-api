@@ -23,3 +23,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-13
 - Improved log message formatting
 - Fixed off-by-one error in loop
+
+## 2026-04-13
+- Added basic retry logic for network requests
+- Improved log message formatting
